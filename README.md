@@ -1,4 +1,3 @@
 
-README in branch developer 
-This is readmechanges in developer branch
+developer and master branches merged
 
